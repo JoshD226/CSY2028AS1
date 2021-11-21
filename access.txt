@@ -1,0 +1,5 @@
+homepageurl: v.je/index.php
+adminuser: admin
+adminpass: admin
+nonadminuser: test
+nonadminpassword: test
